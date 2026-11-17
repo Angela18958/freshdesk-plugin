@@ -1,0 +1,24 @@
+# Dependencies
+/vendor/
+node_modules/
+
+# Environment & secrets
+.env
+.env.*
+config.local.php
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads / user content (optional — remove if you want them tracked)
+/uploads/
+/cache/
